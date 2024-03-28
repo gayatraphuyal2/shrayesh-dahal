@@ -1,0 +1,820 @@
+.national_holiday {
+  color: #FF033E;
+  font-size: 18px;
+}
+
+.specific_holiday {
+  color: darkturquoise;
+  font-size: 20px;
+}
+
+
+#public_holiday_title {
+  font-size: 20px;
+  font-weight: bold;
+  font-variant: small-caps;
+  text-decoration: underline;
+  letter-spacing: 1.5px;
+}
+
+#public_holiday_box {
+  column-width: 300px;
+  margin: 0 auto;
+  text-align: left;
+  width: 100%;
+  font-size: 14px;
+  padding: 2px 2px 2px 2px;
+  border-style: dashed;
+  border-color: #dee2e6;
+  border-width: 3px;
+  line-height: 1.25;
+}
+
+#public_holiday_box>span {
+  font-family: 'Laila', sans-serif;
+  display: inline-block;
+  margin-left: 30px;
+  text-indent: -30px;
+}
+
+
+@media only screen and (max-width: 768px) {
+  #public_holiday_box {
+    width: 85%;
+  }
+}
+
+
+@media only screen and (max-width: 425px) {
+  #public_holiday_box {
+    width: 90%;
+  }
+}
+
+
+
+.pradosh_holiday {
+  &:before {
+    content: "प्रदोष";
+    
+    color: #5123ea;
+    font-size: 12px;
+  }
+}
+
+
+
+
+
+.shree-swasthini-end_holiday {
+  &::before {
+    content: "स्व.अ";
+    
+    color: rgb(19, 22, 22);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.saraswati-puja_holiday {
+  &::before {
+    content: "स.पूजा";
+    
+    color: darkturquoise;
+    font-size: 12px;
+
+
+
+  }
+}
+
+.shree-swasthini-start_holiday {
+  &::before {
+    content: "स्व.प्रा";
+    
+    color: rgb(6, 7, 7);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.vibha-panchami_holiday {
+  &::before {
+    content: "वि.प";
+    
+    color: darkturquoise;
+    font-size: 12px;
+
+
+
+  }
+}
+
+.mangalchu_holiday {
+  &::before {
+    content: "मंगल चौथी";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.ko-jagrat_holiday {
+  &::before {
+    content: "को.व्रत";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.pitri-bisarjan_holiday {
+  &::before {
+    content: "पितृ.वि";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.nawami-sharadha_holiday {
+  &::before {
+    content: "न.श्राद्ध";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.sambhidhan-dibas_holiday {
+  &::before {
+    content: "सं.दिवस";
+    
+    color: rgb(236, 60, 16);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.sorashardha-suru_holiday {
+  &::before {
+    content: "श्राद्ध.प्रा";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.tulasidas-jayanti_holiday {
+  &::before {
+    content: "तु.जयन्ती";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.biswakarma-puja_holiday {
+  &::before {
+    content: "वि.पूजा";
+    
+    color: rgb(231, 44, 19);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.guru-purnima_holiday {
+  &::before {
+    content: "गुरु.पु";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.naag-panchami_holiday {
+  &::before {
+    content: "नाग.प";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.sharwan-pandra_holiday {
+  &::before {
+    content: "";
+    
+    color: rgb(20, 24, 20);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.aama-shardha_holiday {
+  &::before {
+    content: "आ.श्राद्ध";
+    
+    color: rgb(243, 24, 144);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.aama-akchaki_holiday {
+  &::before {
+    content: "आमा.ए";
+    
+    color: rgb(238, 16, 120);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.ashad-pandra_holiday {
+  &::before {
+    content: "";
+    line-height: 1.0 !important;
+    color: rgb(17, 15, 15);
+    font-size: 12px;
+
+
+
+  }
+}
+
+
+.ganatrantra-dibas_holiday {
+  &::before {
+    content: "ग.दिवस";
+    
+    color: rgb(243, 61, 16);
+    font-size: 12px;
+
+
+
+  }
+}
+
+
+
+.sita-jayanti_holiday {
+  &::before {
+    content: "सीता.ज";
+    
+    color: rgb(17, 16, 15);
+    font-size: 12px;
+
+
+
+  }
+}
+
+
+.saani-jayanti_holiday {
+  &::before {
+    content: "शनि.ज";
+    
+    color: rgb(17, 16, 15);
+    font-size: 12px;
+
+
+
+  }
+}
+
+
+.new-year_holiday {
+  &::before {
+    content: "नयाँवर्ष ";
+    
+    color: rgb(240, 66, 22);
+    font-size: 12px;
+
+
+
+  }
+}
+
+
+.international-laberday_holiday {
+  &::before {
+    content: "श्र.दिवस ";
+    
+    color: rgb(240, 66, 22);
+    font-size: 12px;
+
+
+
+  }
+}
+
+
+.hanuman-jayanti_holiday {
+  &::before {
+    content: "हनुमान.ज ";
+    
+    color: rgb(218, 30, 121);
+    font-size: 12px;
+
+
+
+  }
+}
+
+.ram-nawami_holiday {
+  &:before {
+    content: "राम.न";
+    
+    color: #FF033E;
+    font-size: 12px;
+  }
+}
+
+.holi-pahad_holiday {
+  &:before {
+    content: "होली.पा ";
+    
+    color: darkturquoise;
+    font-size: 12px;
+  }
+}
+
+.holi-tarai_holiday {
+  &:before {
+    content: "होली.त ";
+    
+    color: darkturquoise;
+    font-size: 12px;
+  }
+}
+
+.chaite-dashain_holiday {
+  &:before {
+    content: "चैते.द";
+    
+    color: #0e0305;
+    font-size: 12px;
+  }
+}
+
+.buddha-jayanti_holiday {
+  &:before {
+    content: "बुद्ध.ज";
+    
+    color: #dd0b32;
+    font-size: 12px;
+  }
+}
+
+.janai-purnima_holiday {
+  &:before {
+    content: "जनै.पू";
+    
+    color: #d50c31;
+    font-size: 12px;
+  }
+}
+
+.gaai-jatra_holiday {
+  &:before {
+    content: "गाईजात्रा";
+    
+    color: darkturquoise;
+    font-size: 12px;
+  }
+}
+
+.krishna-asthami_holiday {
+  &:before {
+    content: "श्रीकृष्ण.ज";
+    
+    color: rgb(220, 22, 8);
+    font-size: 12px;
+  }
+}
+
+.kuse-ausi_holiday {
+  &:before {
+    content: "कुशे औंसी";
+    
+    color: rgb(12, 13, 14);
+    font-size: 12px;
+  }
+}
+
+.dar-khane-din_holiday {
+  &:before {
+    content: "दरखाने";
+    
+    color: rgb(7, 8, 8);
+    font-size: 12px;
+  }
+}
+
+.haritalika-tij_holiday {
+  &:before {
+    content: "तिज ब्रत";
+    
+    color: darkturquoise;
+    font-size: 12px;
+  }
+}
+
+.ganesh-chaturthi_holiday {
+  &:before {
+    content: "गणेश.च";
+    
+    color: rgb(218, 30, 121);
+    font-size: 12px;
+  }
+}
+
+.ghatasthapana_holiday {
+  &:before {
+    content: "घ.था";
+    
+    color: rgb(233, 44, 15);
+    font-size: 12px;
+  }
+}
+
+.fulpati_holiday {
+  &:before {
+    content: "फूलपाती";
+    
+    color: rgb(236, 66, 10);
+    font-size: 12px;
+  }
+}
+
+.maha-astimi_holiday {
+  &:before {
+    content: "अ";
+    
+    color: rgb(234, 48, 15);
+    font-size: 12px;
+  }
+}
+
+.bajaya-dasami_holiday {
+  &:before {
+    content: "बिजय.द";
+    
+    color: rgb(235, 73, 14);
+    font-size: 12px;
+  }
+}
+
+.dashain-bida_holiday {
+  &:before {
+    content: "दशैं.बि ";
+    
+    color: rgb(237, 79, 16);
+    font-size: 12px;
+  }
+}
+
+.dhan-trayodasi_holiday {
+  &:before {
+    content: "धन.त्र";
+    
+    color: rgb(7, 9, 9);
+    font-size: 12px;
+  }
+}
+
+.kaag-tihar_holiday {
+  &:before {
+    content: "काग.ति";
+    
+    color: rgb(12, 15, 15);
+    font-size: 12px;
+  }
+}
+
+.laxmi-puja_holiday {
+  &:before {
+    content: "लक्ष्मी.पू";
+    
+    color: rgb(238, 59, 14);
+    font-size: 12px;
+  }
+}
+
+.tihar-bidaa_holiday {
+  &:after {
+    content: "ति.बिदा";
+    
+    color: rgb(238, 69, 13);
+    font-size: 12px;
+  }
+}
+
+.goru-tihar_holiday {
+  &:before {
+    content: "गो.पूजा";
+    
+    color: rgb(237, 88, 19);
+    font-size: 12px;
+  }
+}
+
+.bhai-tika_holiday {
+  &:before {
+    content: "भाइ.टी";
+    
+    color: rgb(243, 79, 15);
+    font-size: 12px;
+  }
+}
+
+.tiharbida_holiday {
+  &:before {
+    content: "ति.बिदा";
+    
+    color: rgb(238, 95, 18);
+    font-size: 12px;
+  }
+}
+
+.udhauliparba_holiday {
+  &:before {
+    content: "उ.पर्व";
+    
+    color: rgb(245, 63, 13);
+    font-size: 12px;
+  }
+}
+
+.chat-parba_holiday {
+  &:before {
+    content: "छठ पर्व";
+    
+    color: rgb(245, 63, 13);
+    font-size: 12px;
+  }
+}
+
+.balachaturdasi_holiday {
+  &:before {
+    content: "बाला.च";
+    
+    color: rgb(237, 66, 19);
+    font-size: 12px;
+  }
+}
+
+.crismasday_holiday {
+  &:before {
+    content: "क्रि-डे";
+    
+    color: rgb(239, 82, 20);
+    font-size: 12px;
+  }
+}
+
+.tamulosar_holiday {
+  &:before {
+    content: "तोल.ल्हो";
+    
+    color: darkturquoise;
+    font-size: 12px;
+  }
+}
+
+.prithivijayanti_holiday {
+  &:before {
+    content: "पृथ्वी.ज";
+    
+    color: rgb(243, 56, 15);
+    font-size: 12px;
+  }
+}
+
+.sahid-dibas_holiday {
+  &:before {
+    content: "शहीद.दि";
+    
+    color: rgb(237, 84, 13);
+    font-size: 12px;
+  }
+}
+
+.sonam-losar_holiday {
+  &:before {
+    content: "सो.ल्हो";
+    
+    color: rgb(237, 84, 13);
+    font-size: 12px;
+  }
+}
+
+.prajatantra-dibas_holiday {
+  &:before {
+    content: "प्र.दि";
+    
+    color: rgb(240, 84, 17);
+    font-size: 12px;
+  }
+}
+
+.shiva-ratri_holiday {
+  &:before {
+    content: "शिवरात्रि";
+    
+    color: rgb(239, 71, 10);
+    font-size: 12px;
+  }
+}
+
+.galpo-losar_holiday {
+  &:before {
+    content: "";
+    
+    color: rgb(230, 67, 13);
+    font-size: 12px;
+  }
+}
+
+.ghode-jatra_holiday {
+  &:before {
+    content: "घोडे.जा";
+    
+    color: darkturquoise;
+    font-size: 12px;
+  }
+}
+
+
+
+
+
+.pratipada_holiday {
+  &:after {
+    content: "प्रतिपदा";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.dutiya_holiday {
+  &:after {
+    content: "द्वितीया";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.tritiya_holiday {
+  &:after {
+    content: "तृतिया";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.chaturthi_holiday {
+  &:after {
+    content: "चतुर्थी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.panchami_holiday {
+  &:after {
+    content: "पञ्चमी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.pasthai_holiday {
+  &:after {
+    content: "षष्ठी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.saptami_holiday {
+  &:after {
+    content: "सप्तमी";
+    font-weight: 100;
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.astami_holiday {
+  &:after {
+    content: "अष्टमी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.nawami_holiday {
+  &:after {
+    content: "नवमी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.dasami_holiday {
+  &:after {
+    content: "दशमी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.akadashi_holiday {
+  &:after {
+    content: "एकादशी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.duwadasi_holiday {
+  &:after {
+    content: "द्वादशी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.trayodasi_holiday {
+  &:after {
+    content: "त्रयोदशी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.chaturdasi_holiday {
+  &:after {
+    content: "चतुर्दशी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.ausi_holiday {
+  &:after {
+    content: "औंसी";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}
+.purnima_holiday {
+  &:after {
+    content: "पूर्णिमा";
+    
+    color: rgb(11, 12, 12);
+    font-size: 10px;
+  }
+}

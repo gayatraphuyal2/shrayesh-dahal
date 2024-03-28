@@ -1,0 +1,500 @@
+{
+  "2076": {
+    "mm-dd": [
+      "cause",
+      "type",
+      "description",
+      "cause_np"
+    ],
+    "source": "https://moha.gov.np/public/upload/e66443e81e8cc9c4fa5c099a1fb1bb87/files/BIDA_2076_Rajpatra(1).pdf"
+  },
+  "2077": {
+    "mm-dd": [
+      "cause",
+      "type",
+      "description",
+      "cause_np"
+    ],
+    "source": "https://moha.gov.np/en/post/public-festival-holiday-and-time-schedule-of-office-for-the-year-2077"
+  },
+  "2078": {
+    "mm-dd": [
+      "cause",
+      "type",
+      "description",
+      "cause_np"
+    ],
+    "source": "https://moha.gov.np/public/upload/e66443e81e8cc9c4fa5c099a1fb1bb87/files/%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A5%8D_%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AE_%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%AE%E0%A4%BE_%E0%A4%A6%E0%A4%BF%E0%A4%87%E0%A4%A8%E0%A5%87_%E0%A4%B8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%9C%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AC%E0%A4%BF%E0%A4%A6%E0%A4%BE%E0%A4%B9%E0%A4%B0%E0%A5%81.pdf"
+  },
+  "2079": {
+    "mm-dd": [
+      "cause",
+      "type",
+      "description",
+      "cause_np"
+    ],
+    "source": "http://rajpatra.dop.gov.np/welcome/book/?ref=24877"
+  },
+  "2080": {
+    "mm-dd": [
+      "cause",
+      "type",
+      "description",
+      "cause_np"
+    ],
+    "12-11": [
+      "",
+      "holi-pahad",
+      "",
+      ""
+    ],
+    "12-12": [
+      "",
+      "holi-tarai",
+      "",
+      ""
+    ],
+    "source": "http://rajpatra.dop.gov.np/welcome/book/?ref=24877"
+  },
+  "2081": {
+    "mm-dd": [
+      "cause",
+      "type",
+      "description",
+      "cause_np"
+    ],
+    "01-01": [
+      "",
+      "new-year",
+      "",
+      ""
+    ],
+    "01-04": [
+      "",
+      "chaite-dashain",
+      "",
+      ""
+    ],
+    "01-05": [
+      "",
+      "ram-nawami",
+      "",
+      ""
+    ],
+    "01-11": [
+      "",
+      "hanuman-jayanti",
+      "",
+      ""
+    ],
+    "01-19": [
+      "",
+      "international-laberday",
+      "",
+      ""
+    ],
+    "02-03": [
+      "",
+      "sita-jayanti",
+      "",
+      ""
+    ],
+    "02-10": [
+      "",
+      "buddha-jayanti",
+      "",
+      ""
+    ],
+    "02-15": [
+      "",
+      "ganatrantra-dibas",
+      "",
+      ""
+    ],
+    "02-24": [
+      "",
+      "saani-jayanti",
+      "",
+      ""
+    ],
+    "03-10": [
+      "",
+      "aama-akchaki",
+      "",
+      ""
+    ],
+    "03-11": [
+      "",
+      "aama-shardha",
+      "",
+      ""
+    ],
+    "03-15": [
+      "",
+      "ashad-pandra",
+      "",
+      ""
+    ],
+    "04-06": [
+      "",
+      "guru-purnima",
+      "",
+      ""
+    ],
+    "04-15": [
+      "",
+      "sharwan-pandra",
+      "",
+      ""
+    ],
+    "04-25": [
+      "",
+      "naag-panchami",
+      "",
+      ""
+    ],
+    "04-27": [
+      "",
+      "tulasidas-jayanti",
+      "",
+      ""
+    ],
+    "05-03": [
+      "",
+      "janai-purnima",
+      "",
+      ""
+    ],
+    "05-04": [
+      "",
+      "gaai-jatra",
+      "",
+      ""
+    ],
+    "05-10": [ 
+      "",
+      "krishna-asthami",
+      "",
+      ""
+    ],
+    "05-17": [
+      "",
+      "kuse-ausi",
+      "",
+      ""
+    ],
+    "05-20": [
+      "",
+      "dar-khane-din",
+      "",
+      ""
+    ],
+    "05-21": [
+      "",
+      "haritalika-tij",
+      "",
+      ""
+    ],
+    "05-22": [
+      "",
+      "ganesh-chaturthi",
+      "",
+      ""
+    ],
+    "06-01": [
+      "",
+      "biswakarma-puja",
+      "",
+      ""
+    ],
+    "06-02": [
+      "",
+      "sorashardha-suru",
+      "",
+      ""
+    ],
+    "06-03": [
+      "",
+      "sambhidhan-dibas",
+      "",
+      ""
+    ],
+    "06-10": [
+      "",
+      "nawami-sharadha",
+      "",
+      ""
+    ],
+    "06-16": [
+      "",
+      "pitri-bisarjan",
+      "",
+      ""
+    ],
+    "06-17": [
+      "",
+      "ghatasthapana",
+      "",
+      ""
+    ],
+    "06-24": [
+      "",
+      "fulpati",
+      "",
+      ""
+    ],
+    "06-25": [
+      "",
+      "maha-astimi",
+      "",
+      ""
+    ],
+    "06-26": [
+      "",
+      "bajaya-dasami",
+      "",
+      ""
+    ],
+    "06-28": [
+      "",
+      "dashain-bida",
+      "",
+      ""
+    ],
+    "06-30": [
+      "",
+      "ko-jagrat",
+      "",
+      ""
+    ],
+    "07-13": [
+      "",
+      "dhan-trayodasi",
+      "",
+      ""
+    ],
+    "07-14": [
+      "",
+      "kaag-tihar",
+      "",
+      ""
+    ],
+    "07-15": [
+      "",
+      "laxmi-puja",
+      "",
+      ""
+    ],
+    "07-16": [
+      "",
+      "tihar-bida",
+      "",
+      ""
+    ],
+    "07-17": [
+      "",
+      "goru-tihar",
+      "",
+      ""
+    ],
+    "07-18": [
+      "",
+      "bhai-tika",
+      "",
+      ""
+    ],
+    "07-19": [
+      "",
+      "tiharbida",
+      "",
+      ""
+    ],
+    "07-20": [
+      "",
+      "mangalchu",
+      "",
+      ""
+    ],
+    "07-22": [
+      "",
+      "chat-parba",
+      "",
+      ""
+    ],
+    "08-04": [
+      "",
+      "mangalchu",
+      "",
+      ""
+    ],
+    "08-15": [
+      "",
+      "balachaturdasi",
+      "",
+      ""
+    ],
+    "08-21": [
+      "",
+      "vibha-panchami",
+      "",
+      ""
+    ],
+   
+    "08-30": [
+      "",
+      "udhauliparba",
+      "",
+      ""
+    ],
+    "09-10": [
+      "",
+      "crismasday",
+      "",
+      ""
+    ],
+    "09-15": [
+      "",
+      "tamulosar",
+      "",
+      ""
+    ],
+    "09-27": [
+      "",
+      "prithivijayanti",
+      "",
+      ""
+    ],
+    "09-29": [
+      "",
+      "shree-swasthini-start",
+      "",
+      ""
+    ],
+    "10-16": [
+      "",
+      "sahid-dibas",
+      "",
+      ""
+    ],
+    "10-17": [
+      "",
+      "sonam-losar",
+      "",
+      ""
+    ],
+    "10-21": [
+      "",
+      "saraswati-puja",
+      "",
+      ""
+    ],
+    "10-30": [
+      "",
+      "shree-swasthini-end",
+      "",
+      ""
+    ],
+    "11-07": [
+      "",
+      "prajatantra-dibas",
+      "",
+      ""
+    ],
+    "11-14": [
+      "",
+      "shiva-ratri",
+      "",
+      ""
+    ],
+    "11-16": [    
+      "",
+      "galpo-losar",
+      "",
+      ""
+    ],
+    "11-29": [
+      "",
+      "holi-pahad",
+      "",
+      ""
+    ],
+    "12-01": [
+      "",
+      "holi-tarai",
+      "",
+      ""
+    ],
+    "12-05": [
+      "",
+      "mangalchu",
+      "",
+      ""
+    ],
+    "12-16": [
+      "",
+      "ghode-jatra", 
+      "",
+      ""
+    ],
+    "12-23": [
+      "",
+      "chaite-dashain",
+      "",
+      ""
+    ],
+    "12-24": [
+      "",
+      "ram-nawami",
+      "",
+      ""
+    ],
+    "12-30": [
+      "",
+      "hanuman-jayanti",
+      "",
+      ""
+    ],
+    "source": "नेपाल राजपत्र भाग ५ संख्या ६५ खण्ड ७२ (२०७९/१२/०२)",
+    "special_note": "माथिका बिदाहरूमध्ये बुद्ध जयन्ती, श्री रातो मच्छिन्द्रनाथ भोटो जात्रा, गणतन्त्र दिवस, रक्षाबन्धन, सा पारु, श्रीकृष्ण जन्माष्टमी, येँया पुन्हि, घटस्थापना, क्रिसमस डे, यः मरी पुन्हि, तमू ल्होसार, पृथ्वी जयन्ती, माघे सङ्क्रान्ति, सोनम ल्होसार, जनयुद्ध दिवस, राष्ट्रिय प्रजातन्त्र दिवस, महा शिवरात्री, ग्याल्पो ल्होसार, ईद-उल‍-फित्र, ईद-उल-अजहा, घोडे जात्राका दिनमा केही सार्वजनिक निकायहरूमा सेवा प्रवाह हुने"
+  },
+  "compiled_by": "Brihat Ratna Bajracharya",
+  "holiday_types": [
+    "national",
+    "specific"
+  ],
+  "start_year": 2076,
+  "end_year": 2081,
+  "description_types": [
+    "अपाङ्गता भएका कर्मचारीहरूको लागि मात्र",
+    "शैक्षिक संस्थाका लागि मात्र",
+    "For Females of Particular Religion Only",
+    "विशिष्ट समुदायका महिलाहरूको लागि मात्र",
+    "झापा, मोरङ, सुनसरी, सिरहा र सप्तरी जिल्लाका लागि",
+    "काठमाडौं उपत्यकाको लागि मात्र",
+    "For Kathmandu Valley or Particular Community Only",
+    "किरात को लागी मात्र",
+    "किरात को लागी मात्र and/or Province 1 Only",
+    "विशेष धर्मका महिलाहरूको लागि मात्र",
+    "महिलाहरु को लागी मात्र",
+    "नेपाली सिखहरूका लागि मात्र",
+    "नेपाली सिखहरूका लागि मात्र and In Dharan Municipality Offices Only",
+    "For Newar Community Only",
+    "For Newar Community Only or In Kathmandu Valley Only",
+    "For Particular Community Only",
+    "विशेष समुदाय / क्षेत्र को लागी मात्र",
+    "विशेष धर्म को लागी मात्र",
+    "21 दक्षिणी जिल्लाहरूमा",
+    "56 पहाडी जिल्लाहरूमा",
+    "In Bhaktapur Municipality Only",
+    "गण्डकी प्रदेशमा मात्रै",
+    "काठमाडौं महानगरपालिकामा मात्रै",
+    "कोशी प्रदेशमा मात्रै",
+    "In Lumbini Province Only",
+    "मधेस प्रदेशमा मात्रै",
+    "In Province 1 and Madesh Province Only",
+    "In Province 1 Only",
+    "In Specific Province Only",
+    "In specific areas only (Bara-2, Chitwan-2, Tanahu-1)",
+    "सार्वजनिक विदा"
+  ]
+}
